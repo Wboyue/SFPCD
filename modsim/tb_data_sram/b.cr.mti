@@ -1,0 +1,15 @@
+C:/Users/SIRIUS/Desktop/CPUCDE?/mycpu_verify/rtl/myCPU/data_sram.v {1 {vlog -work work -novopt -stats=none C:/Users/SIRIUS/Desktop/CPUCDE?/mycpu_verify/rtl/myCPU/data_sram.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module data_sram
+
+Top level modules:
+	data_sram
+
+} {} {}} C:/Users/SIRIUS/Desktop/CPUCDE?/mycpu_verify/testbench/tb_data_sram.v {1 {vlog -work work -novopt -stats=none C:/Users/SIRIUS/Desktop/CPUCDE?/mycpu_verify/testbench/tb_data_sram.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module tb_data_sram
+
+Top level modules:
+	tb_data_sram
+
+} {} {}}

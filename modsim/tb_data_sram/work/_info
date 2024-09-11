@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/SIRIUS/Desktop/a
+vdata_sram
+Z0 !s110 1687246995
+!i10b 1
+!s100 >_A7jGGHYDPd0]hKj][l13
+Im`Bn^R<QY[?`1`NI4zU891
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/SIRIUS/Desktop/modsim/tb_data_sram
+w1687246936
+8C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/data_sram.v
+FC:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/data_sram.v
+L0 1
+Z3 OL;L;10.6d;65
+r1
+!s85 0
+31
+Z4 !s108 1687246995.000000
+!s107 C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/data_sram.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/data_sram.v|
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z6 tCvgOpt 0
+vtb_data_sram
+R0
+!i10b 1
+!s100 8iEalRkeS@UDX6VPMBD5o2
+I974jJ?<gECUkfk[XDlndY3
+R1
+R2
+w1687246978
+8C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/testbench/tb_data_sram.v
+FC:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/testbench/tb_data_sram.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/testbench/tb_data_sram.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/testbench/tb_data_sram.v|
+!i113 1
+R5
+R6

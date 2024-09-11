@@ -1,0 +1,43 @@
+C:/Users/SIRIUS/Desktop/modsim/tb_exe_stage/tb_exe.v {1 {vlog -work work -novopt -stats=none C:/Users/SIRIUS/Desktop/modsim/tb_exe_stage/tb_exe.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module tb_exe
+
+Top level modules:
+	tb_exe
+
+} {} {}} C:/Users/SIRIUS/Desktop/modsim/tb_exe_stage/EXE_stage.v {1 {vlog -work work -novopt -stats=none C:/Users/SIRIUS/Desktop/modsim/tb_exe_stage/EXE_stage.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module exe_stage
+
+Top level modules:
+	exe_stage
+
+} {} {}} C:/Users/SIRIUS/Desktop/modsim/tb_exe_stage/mulw.v {1 {vlog -work work -novopt -stats=none C:/Users/SIRIUS/Desktop/modsim/tb_exe_stage/mulw.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module mulw
+
+Top level modules:
+	mulw
+
+} {} {}} C:/Users/SIRIUS/Desktop/CPUCDE?/mycpu_verify/rtl/myCPU/EXE_stage.v {1 {vlog -work work -novopt -stats=none C:/Users/SIRIUS/Desktop/CPUCDE?/mycpu_verify/rtl/myCPU/EXE_stage.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module exe_stage
+
+Top level modules:
+	exe_stage
+
+} {} {}} C:/Users/SIRIUS/Desktop/modsim/tb_exe_stage/alu.v {1 {vlog -work work -novopt -stats=none C:/Users/SIRIUS/Desktop/modsim/tb_exe_stage/alu.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} C:/Users/SIRIUS/Desktop/CPUCDE?/mycpu_verify/rtl/myCPU/alu.v {1 {vlog -work work -novopt -stats=none C:/Users/SIRIUS/Desktop/CPUCDE?/mycpu_verify/rtl/myCPU/alu.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}}

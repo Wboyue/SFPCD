@@ -1,0 +1,63 @@
+# Reading D:/modeltech64_10.6d/tcl/vsim/pref.tcl
+# //  ModelSim SE-64 10.6d Feb 24 2018
+# //
+# //  Copyright 1991-2018 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  ModelSim SE-64 and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# OpenFile C:/Users/SIRIUS/Desktop/modsim/tb_id_stage/id.mpf
+# Loading project id
+# Compile of tb_id.v was successful.
+# Compile of ID_stage.v was successful with warnings.
+# Compile of regfile.v was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -gui work.tb_id
+# vsim -gui work.tb_id 
+# Start time: 16:11:21 on Jun 21,2023
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# Loading work.tb_id
+# Loading work.id_stage
+# Loading work.regfile
+# ** Error: (vsim-3063) C:/Users/SIRIUS/Desktop/modsim/tb_id_stage/tb_id.v(19): Port 'ds_inst' not found in the connected module (16th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_id/U1 File: C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/ID_stage.v
+# Error loading design
+# End time: 16:11:22 on Jun 21,2023, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 1
+# Compile of tb_id.v was successful.
+# Compile of ID_stage.v was successful with warnings.
+# Compile of regfile.v was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -gui work.tb_id
+# vsim -gui work.tb_id 
+# Start time: 16:12:15 on Jun 21,2023
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# Loading work.tb_id
+# Loading work.id_stage
+# Loading work.regfile
+add wave -position insertpoint  \
+sim:/tb_id/br_bus \
+sim:/tb_id/clk \
+sim:/tb_id/debug_alu_op \
+sim:/tb_id/debug_dest \
+sim:/tb_id/debug_ds_pc \
+sim:/tb_id/debug_imm \
+sim:/tb_id/debug_inst \
+sim:/tb_id/debug_load_op \
+sim:/tb_id/ds_allowin \
+sim:/tb_id/ds_to_es_bus \
+sim:/tb_id/ds_to_es_valid \
+sim:/tb_id/es_allowin \
+sim:/tb_id/fs_to_ds_bus \
+sim:/tb_id/fs_to_ds_valid \
+sim:/tb_id/reset \
+sim:/tb_id/ws_to_rf_bus
+run
+# End time: 19:42:28 on Jun 21,2023, Elapsed time: 3:30:13
+# Errors: 0, Warnings: 1

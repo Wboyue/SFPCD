@@ -1,0 +1,13 @@
+reset_design
+
+#set_max_area 1450000
+create_clock -period 10 [get_ports clk]
+set_dont_touch_network [get_ports clk]
+set CLOCK1 [get_clocks clk]
+set_clock_latency -source -max 0.5 $CLOCK1
+set_clock_latency -max 0.5 $CLOCK1
+set_clock_uncertainty -setup 0.35 $CLOCK1
+set_clock_transition -max 0.2 $CLOCK1
+
+set_input_delay -max 3 -clock clk [remove_from_collection [all_inputs] [get_ports clk]]
+set_output_delay -max 3 -clock clk [all_outputs]

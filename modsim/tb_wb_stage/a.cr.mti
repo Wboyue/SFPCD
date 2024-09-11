@@ -1,0 +1,15 @@
+C:/Users/SIRIUS/Desktop/CPUCDE?/mycpu_verify/rtl/myCPU/WB_stage.v {1 {vlog -work work -novopt -stats=none C:/Users/SIRIUS/Desktop/CPUCDE?/mycpu_verify/rtl/myCPU/WB_stage.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module wb_stage
+
+Top level modules:
+	wb_stage
+
+} {} {}} C:/Users/SIRIUS/Desktop/modsim/tb_wb_stage/tb_wb.v {1 {vlog -work work -novopt -stats=none C:/Users/SIRIUS/Desktop/modsim/tb_wb_stage/tb_wb.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module tb_wb
+
+Top level modules:
+	tb_wb
+
+} {} {}}

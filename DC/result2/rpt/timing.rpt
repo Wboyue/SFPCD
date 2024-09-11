@@ -1,0 +1,162 @@
+ 
+****************************************
+Report : timing
+        -path full
+        -delay max
+        -max_paths 1
+Design : mycpu_top
+Version: R-2020.09-SP4
+Date   : Fri Jun 30 07:33:39 2023
+****************************************
+
+ # A fanout number of 1000 was used for high fanout net computations.
+
+Operating Conditions: typical   Library: typical
+Wire Load Model Mode: top
+
+  Startpoint: id_stage/fs_to_ds_bus_r_reg[88]
+              (rising edge-triggered flip-flop clocked by clk)
+  Endpoint: if_stage/fs_pc_reg[63]
+            (rising edge-triggered flip-flop clocked by clk)
+  Path Group: clk
+  Path Type: max
+
+  Point                                                   Incr       Path
+  --------------------------------------------------------------------------
+  clock clk (rise edge)                                   0.00       0.00
+  clock network delay (ideal)                             1.00       1.00
+  id_stage/fs_to_ds_bus_r_reg[88]/CK (EDFFX1)             0.00 #     1.00 r
+  id_stage/fs_to_ds_bus_r_reg[88]/Q (EDFFX1)              0.32       1.32 r
+  id_stage/u_regfile/raddr2[4] (regfile)                  0.00       1.32 r
+  id_stage/u_regfile/U1264/Y (NAND2X1)                    0.20       1.52 f
+  id_stage/u_regfile/U1194/Y (NOR2X2)                     0.54       2.06 r
+  id_stage/u_regfile/U1265/Y (INVXL)                      0.02       2.08 f
+  id_stage/u_regfile/U1253/Y (INVXL)                      0.57       2.65 r
+  id_stage/u_regfile/U4963/Y (AOI22XL)                    0.06       2.71 f
+  id_stage/u_regfile/U4967/Y (NAND4XL)                    0.10       2.81 r
+  id_stage/u_regfile/U4983/Y (OR4XL)                      0.14       2.95 r
+  id_stage/u_regfile/rdata2[50] (regfile)                 0.00       2.95 r
+  U3887/Y (XNOR2XL)                                       0.18       3.14 r
+  U3889/Y (NAND4XL)                                       0.08       3.22 f
+  U3895/Y (NOR4X1)                                        0.17       3.39 r
+  U3917/Y (NAND4X1)                                       0.08       3.47 f
+  U3918/Y (XOR2X1)                                        0.15       3.62 f
+  U3920/Y (OAI21X2)                                       0.12       3.74 r
+  U3921/Y (NAND2X4)                                       0.11       3.85 f
+  U3956/Y (NOR2BXL)                                       0.15       4.00 r
+  U3957/Y (OR2X2)                                         0.11       4.11 r
+  U3971/Y (AOI21X1)                                       0.06       4.17 f
+  U4748/Y (OAI21XL)                                       0.10       4.27 r
+  U3284/Y (AOI21XL)                                       0.06       4.33 f
+  U4797/Y (OAI21X1)                                       0.12       4.46 r
+  U4812/Y (AOI21X1)                                       0.10       4.56 f
+  U4816/Y (OAI21X2)                                       0.12       4.68 r
+  U4820/Y (AOI21X1)                                       0.08       4.75 f
+  U4823/Y (OAI21XL)                                       0.18       4.93 r
+  U4827/Y (AOI21X1)                                       0.12       5.05 f
+  U4830/Y (OAI21X2)                                       0.12       5.17 r
+  U4834/Y (AOI21X1)                                       0.10       5.27 f
+  U4837/Y (OAI21X2)                                       0.12       5.38 r
+  U4841/Y (AOI21X1)                                       0.08       5.46 f
+  U4844/Y (OAI21XL)                                       0.18       5.64 r
+  U4848/Y (AOI21X1)                                       0.12       5.76 f
+  U4851/Y (OAI21X2)                                       0.12       5.88 r
+  U4855/Y (AOI21X1)                                       0.08       5.96 f
+  U4858/Y (OAI21XL)                                       0.18       6.13 r
+  U4862/Y (AOI21X1)                                       0.12       6.25 f
+  U4865/Y (OAI21X2)                                       0.12       6.37 r
+  U4869/Y (AOI21X1)                                       0.08       6.45 f
+  U4872/Y (OAI21XL)                                       0.18       6.63 r
+  U4876/Y (AOI21X1)                                       0.12       6.74 f
+  U4879/Y (OAI21X2)                                       0.12       6.86 r
+  U4883/Y (AOI21X1)                                       0.08       6.94 f
+  U4886/Y (OAI21XL)                                       0.18       7.12 r
+  U4890/Y (AOI21X1)                                       0.12       7.23 f
+  U4893/Y (OAI21X2)                                       0.12       7.35 r
+  U4897/Y (AOI21X1)                                       0.08       7.43 f
+  U4900/Y (OAI21XL)                                       0.18       7.61 r
+  U4904/Y (AOI21X1)                                       0.12       7.72 f
+  U4907/Y (OAI21X2)                                       0.12       7.84 r
+  U4911/Y (AOI21X1)                                       0.08       7.92 f
+  U4914/Y (OAI21XL)                                       0.18       8.10 r
+  U4918/Y (AOI21X1)                                       0.12       8.21 f
+  U4921/Y (OAI21X2)                                       0.12       8.33 r
+  U4925/Y (AOI21X1)                                       0.08       8.41 f
+  U4928/Y (OAI21XL)                                       0.18       8.59 r
+  U4932/Y (AOI21X1)                                       0.09       8.68 f
+  U4935/Y (OAI21X1)                                       0.15       8.83 r
+  U4939/Y (AOI21X1)                                       0.08       8.92 f
+  U4942/Y (OAI21XL)                                       0.17       9.08 r
+  U3291/Y (AOI21XL)                                       0.09       9.17 f
+  U4946/Y (CLKINVX2)                                      0.04       9.21 r
+  U4956/CO (ADDFXL)                                       0.17       9.38 r
+  U4954/CO (ADDFXL)                                       0.18       9.56 r
+  U4952/CO (ADDFXL)                                       0.18       9.75 r
+  U4951/CO (ADDFXL)                                       0.18       9.93 r
+  U4950/CO (ADDFXL)                                       0.18      10.11 r
+  U4949/CO (ADDFXL)                                       0.18      10.28 r
+  U4948/Y (XOR2X1)                                        0.12      10.41 f
+  U3294/Y (NOR2BXL)                                       0.10      10.51 f
+  if_stage/fs_pc_reg[63]/D (DFFHQXL)                      0.00      10.51 f
+  data arrival time                                                 10.51
+
+  clock clk (rise edge)                                  10.00      10.00
+  clock network delay (ideal)                             1.00      11.00
+  clock uncertainty                                      -0.35      10.65
+  if_stage/fs_pc_reg[63]/CK (DFFHQXL)                     0.00      10.65 r
+  library setup time                                     -0.14      10.51
+  data required time                                                10.51
+  --------------------------------------------------------------------------
+  data required time                                                10.51
+  data arrival time                                                -10.51
+  --------------------------------------------------------------------------
+  slack (MET)                                                        0.00
+
+
+1
+ 
+****************************************
+Report : timing
+        -path full
+        -delay min
+        -max_paths 1
+Design : mycpu_top
+Version: R-2020.09-SP4
+Date   : Fri Jun 30 07:33:39 2023
+****************************************
+
+ # A fanout number of 1000 was used for high fanout net computations.
+
+Operating Conditions: typical   Library: typical
+Wire Load Model Mode: top
+
+  Startpoint: inst_ram/inst_rdata_reg[0]
+              (rising edge-triggered flip-flop clocked by clk)
+  Endpoint: id_stage/fs_to_ds_bus_r_reg[64]
+            (rising edge-triggered flip-flop clocked by clk)
+  Path Group: clk
+  Path Type: min
+
+  Point                                                   Incr       Path
+  --------------------------------------------------------------------------
+  clock clk (rise edge)                                   0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  inst_ram/inst_rdata_reg[0]/CK (DFFHQXL)                 0.00 #     0.00 r
+  inst_ram/inst_rdata_reg[0]/Q (DFFHQXL)                  0.22       0.22 r
+  inst_ram/inst_sram_rdata[0] (inst_sram)                 0.00       0.22 r
+  id_stage/fs_to_ds_bus_r_reg[64]/D (EDFFX1)              0.00       0.22 r
+  data arrival time                                                  0.22
+
+  clock clk (rise edge)                                   0.00       0.00
+  clock network delay (ideal)                             0.00       0.00
+  id_stage/fs_to_ds_bus_r_reg[64]/CK (EDFFX1)             0.00       0.00 r
+  library hold time                                      -0.09      -0.09
+  data required time                                                -0.09
+  --------------------------------------------------------------------------
+  data required time                                                -0.09
+  data arrival time                                                 -0.22
+  --------------------------------------------------------------------------
+  slack (MET)                                                        0.31
+
+
+1

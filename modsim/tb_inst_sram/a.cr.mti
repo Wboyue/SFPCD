@@ -1,0 +1,22 @@
+C:/Users/SIRIUS/Desktop/CPUCDE?/mycpu_verify/rtl/myCPU/inst_sram.v {1 {vlog -work work -novopt -stats=none C:/Users/SIRIUS/Desktop/CPUCDE?/mycpu_verify/rtl/myCPU/inst_sram.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module inst_sram
+
+Top level modules:
+	inst_sram
+
+} {} {}} C:/Users/SIRIUS/Desktop/CPUCDE?/mycpu_verify/rtl/myCPU/inst_sram.v {1 {vlog -work work -novopt -stats=none C:/Users/SIRIUS/Desktop/CPUCDE?/mycpu_verify/rtl/myCPU/inst_sram.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module inst_sram
+
+Top level modules:
+	inst_sram
+
+} {} {}} C:/Users/SIRIUS/Desktop/CPUCDE?/mycpu_verify/testbench/tb_inst_sram.v {1 {vlog -work work -novopt -stats=none C:/Users/SIRIUS/Desktop/CPUCDE?/mycpu_verify/testbench/tb_inst_sram.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module tb_inst_sram
+
+Top level modules:
+	tb_inst_sram
+
+} {} {}}

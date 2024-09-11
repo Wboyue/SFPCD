@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/SIRIUS/Desktop/modsim/tb_mem_stage
+vtb_wb
+Z0 !s110 1687420831
+!i10b 1
+!s100 L9[=ESjgD=g7OV_FQW:@j0
+Ic55=>1[0nV3hL>WN<7eWm0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/SIRIUS/Desktop/modsim/tb_wb_stage
+w1687420590
+8C:/Users/SIRIUS/Desktop/modsim/tb_wb_stage/tb_wb.v
+FC:/Users/SIRIUS/Desktop/modsim/tb_wb_stage/tb_wb.v
+L0 4
+Z3 OL;L;10.6d;65
+r1
+!s85 0
+31
+Z4 !s108 1687420831.000000
+!s107 C:/Users/SIRIUS/Desktop/modsim/tb_wb_stage/tb_wb.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/SIRIUS/Desktop/modsim/tb_wb_stage/tb_wb.v|
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z6 tCvgOpt 0
+vwb_stage
+R0
+!i10b 1
+!s100 K@4dBM6Vf2kOf[2a@hM]a1
+IPghP`R9F16;Xm^MVTCJB63
+R1
+R2
+w1685016588
+8C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/WB_stage.v
+FC:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/WB_stage.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\SIRIUS\Desktop\CPUCDE£±\mycpu_verify\rtl\myCPU\mycpu.h|C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/WB_stage.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/WB_stage.v|
+!i113 1
+R5
+R6

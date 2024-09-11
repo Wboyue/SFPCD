@@ -1,0 +1,22 @@
+C:/Users/SIRIUS/Desktop/CPUCDE?/mycpu_verify/rtl/myCPU/IF_stage.v {1 {vlog -work work -novopt -stats=none C:/Users/SIRIUS/Desktop/CPUCDE?/mycpu_verify/rtl/myCPU/IF_stage.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module if_stage
+
+Top level modules:
+	if_stage
+
+} {} {}} C:/Users/SIRIUS/Desktop/modsim/tb_if_stage/tb_if.v {1 {vlog -work work -novopt -stats=none C:/Users/SIRIUS/Desktop/modsim/tb_if_stage/tb_if.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module tb_if
+
+Top level modules:
+	tb_if
+
+} {} {}} C:/Users/SIRIUS/Desktop/CPUCDE?/mycpu_verify/rtl/myCPU/IF_stage.v {1 {vlog -work work -novopt -stats=none C:/Users/SIRIUS/Desktop/CPUCDE?/mycpu_verify/rtl/myCPU/IF_stage.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module if_stage
+
+Top level modules:
+	if_stage
+
+} {} {}}

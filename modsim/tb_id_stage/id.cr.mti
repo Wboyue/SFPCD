@@ -1,0 +1,23 @@
+C:/Users/SIRIUS/Desktop/CPUCDE?/mycpu_verify/rtl/myCPU/ID_stage.v {2 {vlog -work work -novopt -stats=none C:/Users/SIRIUS/Desktop/CPUCDE?/mycpu_verify/rtl/myCPU/ID_stage.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module id_stage
+** Warning: C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/ID_stage.v(152): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+Top level modules:
+	id_stage
+
+} {} {}} C:/Users/SIRIUS/Desktop/modsim/tb_id_stage/tb_id.v {1 {vlog -work work -novopt -stats=none C:/Users/SIRIUS/Desktop/modsim/tb_id_stage/tb_id.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module tb_id
+
+Top level modules:
+	tb_id
+
+} {} {}} C:/Users/SIRIUS/Desktop/CPUCDE?/mycpu_verify/rtl/myCPU/regfile.v {1 {vlog -work work -novopt -stats=none C:/Users/SIRIUS/Desktop/CPUCDE?/mycpu_verify/rtl/myCPU/regfile.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module regfile
+
+Top level modules:
+	regfile
+
+} {} {}}

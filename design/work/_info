@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/SIRIUS/Desktop/design
+vgcdmodel
+Z1 !s110 1679793100
+!i10b 1
+!s100 j^RDfOZTB:CjXJ;^mAA`e3
+IRjTW843l`fI4Zb[EJ9:V=2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1679792759
+8C:/Users/SIRIUS/Desktop/design/gcdmodel.v
+FC:/Users/SIRIUS/Desktop/design/gcdmodel.v
+L0 1
+Z3 OL;L;10.6d;65
+r1
+!s85 0
+31
+Z4 !s108 1679793100.000000
+!s107 C:/Users/SIRIUS/Desktop/design/gcdmodel.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/SIRIUS/Desktop/design/gcdmodel.v|
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z6 tCvgOpt 0
+vgcdtestbench
+R1
+!i10b 1
+!s100 19B:d<ge;jW@LaEjZVbT;2
+I7mI4PRDPJ`0j`M0mlRJ@l0
+R2
+R0
+w1679792814
+Z7 8C:/Users/SIRIUS/Desktop/design/gcdtestbench.v
+Z8 FC:/Users/SIRIUS/Desktop/design/gcdtestbench.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+Z9 !s107 C:/Users/SIRIUS/Desktop/design/gcdtestbench.v|
+Z10 !s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/SIRIUS/Desktop/design/gcdtestbench.v|
+!i113 1
+R5
+R6
+vtestbench_gcd
+!s110 1679733209
+!i10b 1
+!s100 6NZYzR^nc@[O>Yak3n[:P3
+I=YegMf0=JI_JeR:4K1Z?C1
+R2
+R0
+w1679625029
+R7
+R8
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1679733209.000000
+R9
+R10
+!i113 1
+R5
+R6

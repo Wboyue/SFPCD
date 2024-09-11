@@ -1,0 +1,94 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/SIRIUS/Desktop/modsim/tb_alu
+valu
+Z0 !s110 1687953964
+!i10b 1
+!s100 SVlV]ITVOQA:7C6D:?BU72
+IV4Fa;;LDNMza[gZ1[ED2^0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/SIRIUS/Desktop/modsim/tb_exe_stage
+w1687349948
+8C:/Users/SIRIUS/Desktop/modsim/tb_exe_stage/alu.v
+FC:/Users/SIRIUS/Desktop/modsim/tb_exe_stage/alu.v
+L0 1
+Z3 OL;L;10.6d;65
+r1
+!s85 0
+31
+Z4 !s108 1687953964.000000
+!s107 C:/Users/SIRIUS/Desktop/modsim/tb_exe_stage/alu.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/SIRIUS/Desktop/modsim/tb_exe_stage/alu.v|
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z6 tCvgOpt 0
+vexe_stage
+R0
+!i10b 1
+!s100 SeI8heDb19^]`=RbcgQAQ3
+IiejD`<P9K>imXd?^GQG`X3
+R1
+R2
+w1687953794
+8C:/Users/SIRIUS/Desktop/modsim/tb_exe_stage/EXE_stage.v
+FC:/Users/SIRIUS/Desktop/modsim/tb_exe_stage/EXE_stage.v
+L0 5
+R3
+r1
+!s85 0
+31
+R4
+!s107 mycpu.h|C:/Users/SIRIUS/Desktop/modsim/tb_exe_stage/EXE_stage.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/SIRIUS/Desktop/modsim/tb_exe_stage/EXE_stage.v|
+!i113 1
+R5
+R6
+vmulw
+R0
+!i10b 1
+!s100 >czAo:2<HB@dSc[ILCQen1
+IPN`HFE<GQ_b4b;mQcl8>K2
+R1
+R2
+w1687953282
+8C:/Users/SIRIUS/Desktop/modsim/tb_exe_stage/mulw.v
+FC:/Users/SIRIUS/Desktop/modsim/tb_exe_stage/mulw.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/SIRIUS/Desktop/modsim/tb_exe_stage/mulw.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/SIRIUS/Desktop/modsim/tb_exe_stage/mulw.v|
+!i113 1
+R5
+R6
+vtb_exe
+R0
+!i10b 1
+!s100 XIgMMYhD`PIgHKh?iUEIK3
+I9D>hNM>@1l=FM_;Ej^Se>1
+R1
+R2
+w1687953957
+8C:/Users/SIRIUS/Desktop/modsim/tb_exe_stage/tb_exe.v
+FC:/Users/SIRIUS/Desktop/modsim/tb_exe_stage/tb_exe.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/SIRIUS/Desktop/modsim/tb_exe_stage/tb_exe.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/SIRIUS/Desktop/modsim/tb_exe_stage/tb_exe.v|
+!i113 1
+R5
+R6

@@ -1,0 +1,46 @@
+ 
+****************************************
+Report : area
+Design : mycpu_top
+Version: R-2020.09-SP4
+Date   : Fri Jun 30 06:09:02 2023
+****************************************
+
+Library(s) Used:
+
+    typical (File: /home/autumn/Desktop/fin/libs/typical.db)
+
+Number of ports:                          868
+Number of nets:                         51077
+Number of cells:                        50144
+Number of combinational cells:          35155
+Number of sequential cells:             14984
+Number of macros/black boxes:               0
+Number of buf/inv:                       3252
+Number of references:                     107
+
+Combinational area:             657263.379920
+Buf/Inv area:                    26268.581117
+Noncombinational area:          814725.183300
+Macro/Black Box area:                0.000000
+Net Interconnect area:      undefined  (No wire load specified)
+
+Total cell area:               1471988.563221
+Total area:                 undefined
+
+Hierarchical area distribution
+------------------------------
+
+                                  Global cell area               Local cell area
+                                  ---------------------  -------------------------------- 
+Hierarchical cell                 Absolute      Percent  Combi-       Noncombi-    Black-
+                                  Total         Total    national     national     boxes   Design
+--------------------------------  ------------  -------  -----------  -----------  ------  ---------
+mycpu_top                         1471988.5632    100.0   82138.7965   53385.3946  0.0000  mycpu_top
+data_ram                           765604.2326     52.0  329559.7568  436044.4759  0.0000  data_sram
+id_stage/u_regfile                 200561.9641     13.6   94968.7212  105593.2429  0.0000  regfile
+inst_ram                           370298.1754     25.2  150596.1055  219702.0699  0.0000  inst_sram
+--------------------------------  ------------  -------  -----------  -----------  ------  ---------
+Total                                                    657263.3799  814725.1833  0.0000
+
+1

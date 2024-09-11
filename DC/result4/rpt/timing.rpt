@@ -1,0 +1,106 @@
+ 
+****************************************
+Report : timing
+        -path full
+        -delay max
+        -max_paths 1
+Design : mycpu_top
+Version: R-2020.09-SP4
+Date   : Mon Jul  3 22:40:28 2023
+****************************************
+
+ # A fanout number of 1000 was used for high fanout net computations.
+
+Operating Conditions: typical   Library: typical
+Wire Load Model Mode: top
+
+  Startpoint: inst_sram_waddr[28]
+              (input port clocked by clk)
+  Endpoint: inst_ram/ram_reg[44][0]
+            (rising edge-triggered flip-flop clocked by clk)
+  Path Group: clk
+  Path Type: max
+
+  Point                                                   Incr       Path
+  --------------------------------------------------------------------------
+  clock clk (rise edge)                                   0.00       0.00
+  clock network delay (ideal)                             0.80       0.80
+  input external delay                                    2.40       3.20 f
+  inst_sram_waddr[28] (in)                                0.00       3.20 f
+  inst_ram/inst_sram_waddr[28] (inst_sram)                0.00       3.20 f
+  inst_ram/U4962/Y (OR4X4)                                0.23       3.43 f
+  inst_ram/U360/Y (NOR4X2)                                0.13       3.55 r
+  inst_ram/U705/Y (NAND2X2)                               0.06       3.61 f
+  inst_ram/U380/Y (NOR2X4)                                0.09       3.70 r
+  inst_ram/U379/Y (NAND2X4)                               0.06       3.76 f
+  inst_ram/U436/Y (OR2X2)                                 0.14       3.91 f
+  inst_ram/U2065/Y (BUFX8)                                0.11       4.02 f
+  inst_ram/U2067/Y (NOR2X1)                               0.09       4.10 r
+  inst_ram/U520/Y (INVX2)                                 0.09       4.19 f
+  inst_ram/U525/Y (CLKINVX3)                              0.04       4.23 r
+  inst_ram/U11/Y (CLKINVX3)                               0.06       4.29 f
+  inst_ram/U429/Y (CLKINVX3)                              0.05       4.35 r
+  inst_ram/U3643/Y (AOI2BB2XL)                            0.10       4.45 r
+  inst_ram/ram_reg[44][0]/D (DFFX1)                       0.00       4.45 r
+  data arrival time                                                  4.45
+
+  clock clk (rise edge)                                   4.00       4.00
+  clock network delay (ideal)                             0.80       4.80
+  clock uncertainty                                      -0.28       4.52
+  inst_ram/ram_reg[44][0]/CK (DFFX1)                      0.00       4.52 r
+  library setup time                                     -0.07       4.45
+  data required time                                                 4.45
+  --------------------------------------------------------------------------
+  data required time                                                 4.45
+  data arrival time                                                 -4.45
+  --------------------------------------------------------------------------
+  slack (MET)                                                        0.00
+
+
+1
+ 
+****************************************
+Report : timing
+        -path full
+        -delay min
+        -max_paths 1
+Design : mycpu_top
+Version: R-2020.09-SP4
+Date   : Mon Jul  3 22:40:28 2023
+****************************************
+
+ # A fanout number of 1000 was used for high fanout net computations.
+
+Operating Conditions: typical   Library: typical
+Wire Load Model Mode: top
+
+  Startpoint: inst_ram/ram_reg[43][16]
+              (rising edge-triggered flip-flop clocked by clk)
+  Endpoint: inst_ram/ram_reg[43][16]
+            (rising edge-triggered flip-flop clocked by clk)
+  Path Group: clk
+  Path Type: min
+
+  Point                                    Incr       Path
+  -----------------------------------------------------------
+  clock clk (rise edge)                    0.00       0.00
+  clock network delay (ideal)              0.00       0.00
+  inst_ram/ram_reg[43][16]/CK (DFFX4)      0.00 #     0.00 r
+  inst_ram/ram_reg[43][16]/Q (DFFX4)       0.16       0.16 r
+  inst_ram/U3627/Y (AOI2BB2XL)             0.10       0.27 r
+  inst_ram/ram_reg[43][16]/D (DFFX4)       0.00       0.27 r
+  data arrival time                                   0.27
+
+  clock clk (rise edge)                    0.00       0.00
+  clock network delay (ideal)              0.00       0.00
+  inst_ram/ram_reg[43][16]/CK (DFFX4)      0.00       0.00 r
+  library hold time                       -0.04      -0.04
+  data required time                                 -0.04
+  -----------------------------------------------------------
+  data required time                                 -0.04
+  data arrival time                                  -0.27
+  -----------------------------------------------------------
+  slack (MET)                                         0.31
+
+
+1

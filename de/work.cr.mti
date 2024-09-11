@@ -1,0 +1,15 @@
+C:/Users/SIRIUS/Desktop/de/gcdtestbench.v {1 {vlog -work work -novopt -stats=none C:/Users/SIRIUS/Desktop/de/gcdtestbench.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module gcdtestbench
+
+Top level modules:
+	gcdtestbench
+
+} {} {}} C:/Users/SIRIUS/Desktop/de/gcdmodel.v {1 {vlog -work work -novopt -stats=none C:/Users/SIRIUS/Desktop/de/gcdmodel.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module gcdmodel
+
+Top level modules:
+	gcdmodel
+
+} {} {}}

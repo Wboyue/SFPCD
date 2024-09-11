@@ -1,0 +1,15 @@
+C:/Users/SIRIUS/Desktop/modsim/tb_alu/tb_alu.v {1 {vlog -work work -novopt -stats=none C:/Users/SIRIUS/Desktop/modsim/tb_alu/tb_alu.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module tb_alu
+
+Top level modules:
+	tb_alu
+
+} {} {}} C:/Users/SIRIUS/Desktop/CPUCDE?/mycpu_verify/rtl/myCPU/alu.v {1 {vlog -work work -novopt -stats=none C:/Users/SIRIUS/Desktop/CPUCDE?/mycpu_verify/rtl/myCPU/alu.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}}

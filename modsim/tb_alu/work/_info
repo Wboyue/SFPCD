@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/SIRIUS/Desktop/modsim/tb_id_stage
+valu
+Z0 !s110 1687349953
+!i10b 1
+!s100 SVlV]ITVOQA:7C6D:?BU72
+IO5g8Tgl<kJhmS<J=[Tob62
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/SIRIUS/Desktop/modsim/tb_alu
+w1687349948
+8C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/alu.v
+FC:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/alu.v
+L0 1
+Z3 OL;L;10.6d;65
+r1
+!s85 0
+31
+Z4 !s108 1687349953.000000
+!s107 C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/alu.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/alu.v|
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z6 tCvgOpt 0
+vtb_alu
+R0
+!i10b 1
+!s100 c]8a6jR<3cFaSf[LA34HE3
+IF`J0X0k@WeYE=h1Q=G3633
+R1
+R2
+w1687349439
+8C:/Users/SIRIUS/Desktop/modsim/tb_alu/tb_alu.v
+FC:/Users/SIRIUS/Desktop/modsim/tb_alu/tb_alu.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/SIRIUS/Desktop/modsim/tb_alu/tb_alu.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/SIRIUS/Desktop/modsim/tb_alu/tb_alu.v|
+!i113 1
+R5
+R6

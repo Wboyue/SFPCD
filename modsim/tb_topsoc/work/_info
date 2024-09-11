@@ -1,0 +1,304 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/SIRIUS/Desktop/modsim/tb_wb_stage
+valu
+Z0 !s110 1688306752
+!i10b 1
+!s100 SVlV]ITVOQA:7C6D:?BU72
+IO5g8Tgl<kJhmS<J=[Tob62
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/SIRIUS/Desktop/modsim/tb_topsoc
+w1687349948
+8C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/alu.v
+FC:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/alu.v
+L0 1
+Z3 OL;L;10.6d;65
+r1
+!s85 0
+31
+Z4 !s108 1688306752.000000
+!s107 C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/alu.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/alu.v|
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z6 tCvgOpt 0
+vdata_sram
+R0
+!i10b 1
+!s100 >_A7jGGHYDPd0]hKj][l13
+Im`Bn^R<QY[?`1`NI4zU891
+R1
+R2
+w1687246936
+8C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/data_sram.v
+FC:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/data_sram.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/data_sram.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/data_sram.v|
+!i113 1
+R5
+R6
+vdecoder_5_32
+Z7 !s110 1688306753
+!i10b 1
+!s100 >j;:5Ki96MXL]R5;=Lhfe3
+I=2WEV8DD6l8@:2Vk]@dP10
+R1
+R2
+Z8 w1567763946
+Z9 8C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/tools.v
+Z10 FC:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/tools.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z11 !s108 1688306753.000000
+Z12 !s107 C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/tools.v|
+Z13 !s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/tools.v|
+!i113 1
+R5
+R6
+vdecoder_6_64
+R7
+!i10b 1
+!s100 KGRcf`=a<UeYmh`E@U1?F0
+IzDfc?jYn6MA9GEbSG3^Af2
+R1
+R2
+R8
+R9
+R10
+L0 14
+R3
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 1
+R5
+R6
+vexe_stage
+R0
+!i10b 1
+!s100 ZizG`m[K]K[NXh6gki]M]3
+I8j;b05a<R060>NVcGZc:K0
+R1
+R2
+w1687952930
+8C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/EXE_stage.v
+FC:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/EXE_stage.v
+L0 5
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\SIRIUS\Desktop\CPUCDE£±\mycpu_verify\rtl\myCPU\mycpu.h|C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/EXE_stage.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/EXE_stage.v|
+!i113 1
+R5
+R6
+vid_stage
+R0
+!i10b 1
+!s100 _MgkKJ9OH6:djd;dAb`ZV3
+I3b6IOD]NDXQ7game7KU]n1
+R1
+R2
+w1687942854
+8C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/ID_stage.v
+FC:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/ID_stage.v
+L0 11
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\SIRIUS\Desktop\CPUCDE£±\mycpu_verify\rtl\myCPU\mycpu.h|C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/ID_stage.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/ID_stage.v|
+!i113 1
+R5
+R6
+vif_stage
+R0
+!i10b 1
+!s100 ?1SYF0kfm088Sh[HXXFRa0
+I?9A`e1m0Q;[A]C8c:Qdo61
+R1
+R2
+w1687432772
+8C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/IF_stage.v
+FC:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/IF_stage.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\SIRIUS\Desktop\CPUCDE£±\mycpu_verify\rtl\myCPU\mycpu.h|C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/IF_stage.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/IF_stage.v|
+!i113 1
+R5
+R6
+vinst_sram
+R0
+!i10b 1
+!s100 QL0DHb3=lVVfI1l6jYMi?0
+Ih_MA7:CX@zcaR[zoVYho80
+R1
+R2
+w1687432759
+8C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/inst_sram.v
+FC:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/inst_sram.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/inst_sram.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/inst_sram.v|
+!i113 1
+R5
+R6
+vmem_stage
+R0
+!i10b 1
+!s100 ^^z3FYGESWXLcG`5F0J?S1
+IGNbVDPn=[P@oYH5KPCB2g1
+R1
+R2
+w1687423786
+8C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/MEM_stage.v
+FC:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/MEM_stage.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\SIRIUS\Desktop\CPUCDE£±\mycpu_verify\rtl\myCPU\mycpu.h|C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/MEM_stage.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/MEM_stage.v|
+!i113 1
+R5
+R6
+vmulw
+R7
+!i10b 1
+!s100 mz7TLJ[2:U1Y6m0kk5Zg[1
+IV8UTKkBYSYXTFSCc^3<<G0
+R1
+R2
+w1687953262
+8C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/mulw.v
+FC:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/mulw.v
+L0 1
+R3
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/mulw.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/mulw.v|
+!i113 1
+R5
+R6
+vmycpu_top
+R7
+!i10b 1
+!s100 j@lHz6@JZa>;@4>o>5dAj0
+IlY38_bRbT1>Qk^iIZDk7f1
+R1
+R2
+w1687424415
+8C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/mycpu_top.v
+FC:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/mycpu_top.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\SIRIUS\Desktop\CPUCDE£±\mycpu_verify\rtl\myCPU\mycpu.h|C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/mycpu_top.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/mycpu_top.v|
+!i113 1
+R5
+R6
+vregfile
+R7
+!i10b 1
+!s100 N@AR9LK]nAORz4i3H;lz73
+IE:0zUMlUzCCZcfRHVaf=K3
+R1
+R2
+w1687437009
+8C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/regfile.v
+FC:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/regfile.v
+L0 1
+R3
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/regfile.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/regfile.v|
+!i113 1
+R5
+R6
+vtb_mycpu_top
+R7
+!i10b 1
+!s100 e5>D:Q]mMGzLO[SgB`__E3
+If20k^a@kM=L2oBdFnU2Se1
+R1
+R2
+w1688306746
+8C:/Users/SIRIUS/Desktop/modsim/tb_topsoc/tb_mycpu_top.v
+FC:/Users/SIRIUS/Desktop/modsim/tb_topsoc/tb_mycpu_top.v
+L0 4
+R3
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/SIRIUS/Desktop/modsim/tb_topsoc/tb_mycpu_top.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/SIRIUS/Desktop/modsim/tb_topsoc/tb_mycpu_top.v|
+!i113 1
+R5
+R6
+vwb_stage
+R7
+!i10b 1
+!s100 K@4dBM6Vf2kOf[2a@hM]a1
+IPghP`R9F16;Xm^MVTCJB63
+R1
+R2
+w1685016588
+8C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/WB_stage.v
+FC:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/WB_stage.v
+L0 3
+R3
+r1
+!s85 0
+31
+R11
+!s107 C:\Users\SIRIUS\Desktop\CPUCDE£±\mycpu_verify\rtl\myCPU\mycpu.h|C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/WB_stage.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/WB_stage.v|
+!i113 1
+R5
+R6

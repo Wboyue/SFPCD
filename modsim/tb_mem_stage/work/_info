@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/SIRIUS/Desktop/modsim/tb_exe_stage
+vmem_stage
+Z0 !s110 1687418932
+!i10b 1
+!s100 KeeGID5icc^5G0l9@<H020
+IUYUJ5C@Ff=F47iSn_VROm2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/SIRIUS/Desktop/modsim/tb_mem_stage
+w1687416694
+8C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/MEM_stage.v
+FC:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/MEM_stage.v
+L0 3
+Z3 OL;L;10.6d;65
+r1
+!s85 0
+31
+Z4 !s108 1687418932.000000
+!s107 C:\Users\SIRIUS\Desktop\CPUCDE£±\mycpu_verify\rtl\myCPU\mycpu.h|C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/MEM_stage.v|
+!s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/SIRIUS/Desktop/CPUCDE£±/mycpu_verify/rtl/myCPU/MEM_stage.v|
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z6 tCvgOpt 0
+vtb_exe
+!s110 1687418669
+!i10b 1
+!s100 LhGaa3ReenVfTXlRzfiFz0
+Ig>^nai]hR4En4>5UUJ<CP1
+R1
+R2
+w1687418666
+Z7 8C:/Users/SIRIUS/Desktop/modsim/tb_mem_stage/tb_mem.v
+Z8 FC:/Users/SIRIUS/Desktop/modsim/tb_mem_stage/tb_mem.v
+L0 4
+R3
+r1
+!s85 0
+31
+!s108 1687418669.000000
+Z9 !s107 C:/Users/SIRIUS/Desktop/modsim/tb_mem_stage/tb_mem.v|
+Z10 !s90 -reportprogress|300|-work|work|-novopt|-stats=none|C:/Users/SIRIUS/Desktop/modsim/tb_mem_stage/tb_mem.v|
+!i113 1
+R5
+R6
+vtb_mem
+R0
+!i10b 1
+!s100 ]D1gNLd57G=LBO^NIlQU[1
+IWVDPNiSUkjTJ3d0bW_3Si0
+R1
+R2
+w1687418916
+R7
+R8
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+R9
+R10
+!i113 1
+R5
+R6
